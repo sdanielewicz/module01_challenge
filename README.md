@@ -2,7 +2,7 @@
 ## Module 01 HTML, CSS, and Git: Code Refactor
 
 ### Application
-Link to the deployed application can be found [here](https://google.com "Module 01 Challenge").
+Link to the deployed application can be found [here](https://sdanielewicz.github.io/module01_challenge/ "Module 01 Challenge").
 ![Screen Grab of website](./assets/127.0.0.1_5500_module1_challenge_Develop_index.html.png)
 
 ### Assignment
